@@ -7,4 +7,4 @@
 
 Design inspired by [Gustavo Cunha Lacerda](https://github.com/gustavocunhalacerda).
 
-[![LeoSBastos's github stats](https://github-readme-stats.vercel.app/api?username=LeoSBastos)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![LeoSBastos's github stats](https://github-readme-stats.vercel.app/api?username=LeoSBastos&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
