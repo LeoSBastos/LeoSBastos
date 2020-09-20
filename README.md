@@ -8,7 +8,6 @@
 - 💬 Ask me about: tech, memes, anime
 
 ## Languages and stacks that I know a bit off
-
 <br/>
 
 <div>
