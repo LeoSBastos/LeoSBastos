@@ -8,7 +8,7 @@
 - 💬 Ask me about: tech, memes, anime
 
 ## Languages and stacks that I know a bit off
-<br/><br/>
+<br/>
 
 <div>
 <img height="50" src="https://devicon.dev/devicon.git/icons/c/c-original.svg">
