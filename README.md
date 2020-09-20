@@ -24,21 +24,23 @@
 
 <br/><br/><br/><br/>
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<div align="center">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+</div>
 
 <br/><br/><br/><br/>
 
