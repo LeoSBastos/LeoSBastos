@@ -8,7 +8,8 @@
 - 💬 Ask me about: tech, memes, anime
 
 ## Languages and stacks that I know a bit off
-<br/><br/>
+
+<br/>
 
 <div>
 <img height="50" src="https://devicon.dev/devicon.git/icons/c/c-original.svg">
@@ -58,10 +59,13 @@
 </div>
 
 <br/><br/><br/>
-
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=LeoSBastos&show_icons=true&theme=vision-friendly-dark">&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark">
-<p align="center">
+<div align="center">
+   <img width="420" src="https://github-readme-stats.vercel.app/api?username=LeoSBastos&show_icons=true&theme=vision-friendly-dark"/>
+   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark" />
+</div>
+<div style="padding-left: 125px">
    <img src="https://github-profile-trophy.vercel.app/?username=leosbastos&column=7&theme=onedark"/>
-</p>
+</div>
+<br />
 
 Design inspired by [Gustavo Cunha Lacerda](https://github.com/gustavocunhalacerda).
