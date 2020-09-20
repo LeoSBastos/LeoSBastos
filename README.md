@@ -8,17 +8,16 @@
 - 💬 Ask me about: tech, memes, anime
 
 ## Languages and stacks that I know a bit off
-<img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
-<img widgth="420" src="https://github-readme-stats.vercel.app/api?username=LeoSBastos&show_icons=true&theme=vision-friendly-dark">&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark">
+<img widgth="420" src="https://github-readme-stats.vercel.app/api?username=LeoSBastos&show_icons=true&theme=vision-friendly-dark">&nbsp;<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark">
 
 Design inspired by [Gustavo Cunha Lacerda](https://github.com/gustavocunhalacerda).
