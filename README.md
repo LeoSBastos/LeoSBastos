@@ -8,6 +8,11 @@
 - 💬 Ask me about: tech, memes, anime
 
 ## Languages and stacks that I know a bit off
+
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -17,6 +22,25 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
+<br/><br/><br/><br/>
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="50" height="50"/>
+
+<br/><br/><br/><br/>
 
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=LeoSBastos&show_icons=true&theme=vision-friendly-dark">&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark">
 
