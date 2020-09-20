@@ -18,6 +18,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
-<img widgth="420" src="https://github-readme-stats.vercel.app/api?username=LeoSBastos&show_icons=true&theme=vision-friendly-dark">&nbsp;<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=LeoSBastos&show_icons=true&theme=vision-friendly-dark">&nbsp;<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark">
 
 Design inspired by [Gustavo Cunha Lacerda](https://github.com/gustavocunhalacerda).
