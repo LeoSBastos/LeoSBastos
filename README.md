@@ -62,7 +62,7 @@
    <img width="420" src="https://github-readme-stats.vercel.app/api?username=LeoSBastos&show_icons=true&theme=vision-friendly-dark"/>
    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark" />
 </div>
-<div style="padding-left: 125px">
+<div style="padding-left: 250px">
    <img src="https://github-profile-trophy.vercel.app/?username=leosbastos&column=7&theme=onedark"/>
 </div>
 <br />
