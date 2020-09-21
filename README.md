@@ -63,7 +63,7 @@
    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosbastos&layout=compact&theme=vision-friendly-dark" />
 </div>
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=leosbastos&column=7&theme=onedark"/>
+   <img width="900" src="https://github-profile-trophy.vercel.app/?username=leosbastos&column=7&theme=onedark"/>
 </div>
 <br />
 
