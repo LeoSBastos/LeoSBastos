@@ -1,7 +1,7 @@
 # Leo Bastos
 [![Gmail Badge](https://img.shields.io/badge/-leosbastos7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leosbastos7@gmail.com)](mailto:leosbastos7@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-@Leo%20Bastos-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/leo.bastos.777)](https://www.facebook.com/leo.bastos.777)
-[![LinkedIn Badge](https://img.shields.io/badge/-@Leo%20Bastos-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/leo-bastos-136932201/)](https://www.linkedin.com/in/leo-bastos-136932201/)
+[![Facebook Badge](https://img.shields.io/badge/-Leo%20Bastos-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/leo.bastos.777)](https://www.facebook.com/leo.bastos.777)
+[![LinkedIn Badge](https://img.shields.io/badge/-Leo%20Bastos-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/leo-bastos-136932201/)](https://www.linkedin.com/in/leo-bastos-136932201/)
 [![Twitter Badge](https://img.shields.io/badge/-@LeoSBastos7-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/LeoSBastos7)
 ## Hi 👋
 
