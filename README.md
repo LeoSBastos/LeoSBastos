@@ -15,27 +15,33 @@
 <br/>
 
 ### Languages and stacks
+<div>
 <img height="50" src="icons/php-plain.svg">
 <img height="50" src="icons/AppDev_plsql_detailed.svg">
+</div>
 
 ### Tools
+<div>
 <img height="50" src="icons/vscode-original.svg">
 <img height="50" src="icons/sql-developer.svg">
+</div>
 <br/><br/>
 
 ## My everyday languages and stacks 
 
 <br/>
+<div>
 <img height="50" src="icons/javascript-original.svg">
 <img height="50" src="icons/nodejs-original-wordmark.svg">
 <img height="50" src="icons/angularjs-plain-wordmark.svg">
 <img height="50" src="icons/java-original-wordmark.svg">
 <img height="50" src="icons/python-original-wordmark.svg">
+</div>
 <br/><br/>
 
 ## Languages and stacks that I know a bit off
 <br/>
-
+<div>
 <img height="50" src="icons/c-original.svg">
 <img height="50" src="icons/cplusplus-original.svg">
 <img height="50" src="icons/csharp-original.svg">
@@ -53,14 +59,16 @@
 <img height="50" src="icons/mongodb-original-wordmark.svg">
 <img height="50" src="icons/git-original-wordmark.svg">
 <img height="50" src="icons/bash-original.svg">
+</div>
 <br/><br/>
 
 ## Tools that I know how to use
 
 <br/>
+<div>
 <img height="50" src="icons/docker-original-wordmark.svg">
 <img height="50" src="icons/trello-plain-wordmark.svg">
-
+</div>
 <br/><br/><br/>
 
 <div align="center">
