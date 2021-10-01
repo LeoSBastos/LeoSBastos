@@ -1,13 +1,40 @@
 # Leo Bastos
 [![Gmail Badge](https://img.shields.io/badge/-leosbastos7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leosbastos7@gmail.com)](mailto:leosbastos7@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-@Leo%20Bastos-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/leo.bastos.777)](https://www.facebook.com/leo.bastos.777)
-[![LinkedIn Badge](https://img.shields.io/badge/-@Leo%20Bastos-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/leo-bastos-136932201/)](https://www.linkedin.com/in/leo-bastos-136932201/)
+[![Facebook Badge](https://img.shields.io/badge/-Leo%20Bastos-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/leo.bastos.777)](https://www.facebook.com/leo.bastos.777)
+[![LinkedIn Badge](https://img.shields.io/badge/-Leo%20Bastos-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/leo-bastos-136932201/)](https://www.linkedin.com/in/leo-bastos-136932201/)
 [![Twitter Badge](https://img.shields.io/badge/-@LeoSBastos7-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/LeoSBastos7)
+   
 ## Hi 👋
-
-- 🌱 I’m currently learning Computer Science
+- 👨‍💻 I’m currently working as an Integration Analyst at [GTPlan](https://gtplantech.com/).
+- 🌱 I’m currently graduating in Computer Science at Instituto Federal de Brasília (IFB).
 - ⚡ I'm always up to learn a new language
 - 💬 Ask me about: tech, memes, anime
+- 📌 I live in Brasília, Brazil 🇧🇷
+## My current job languages, stacks, tools
+
+<br/>
+
+### Languages and stacks
+
+<img height="50" src="icons/php-plain.svg">
+<img height="50" src="icons/AppDev_plsql_detailed.svg">
+
+### Tools
+<img height="50" src="icons/vscode-original.svg">
+<img height="50" src="icons/sql-developer.svg">
+<br/><br/>
+
+## My everyday languages and stacks 
+
+<br/>
+
+<img height="50" src="icons/javascript-original.svg">
+<img height="50" src="icons/nodejs-original-wordmark.svg">
+<img height="50" src="icons/angularjs-plain-wordmark.svg">
+<img height="50" src="icons/java-original-wordmark.svg">
+<img height="50" src="icons/python-original-wordmark.svg">
+
+<br/><br/>
 
 ## Languages and stacks that I know a bit off
 <br/>
@@ -16,29 +43,29 @@
 <img height="50" src="icons/c-original.svg">
 <img height="50" src="icons/cplusplus-original.svg">
 <img height="50" src="icons/csharp-original.svg">
-<img height="50" src="icons/java-original-wordmark.svg">
 <img height="50" src="icons/ruby-original-wordmark.svg">
-<img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/r-lang.svg"> <!--- Não tem no devicon -->
-<img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
-<!--- Não tem parecido no devicon -->
-<img height="50" src="icons/python-original-wordmark.svg">
+<img height="50" src="icons/r-original.svg">
+<img height="50" src="icons/rust-lang-ar21.svg">
 <img height="50" src="icons/html5-original-wordmark.svg">
 <img height="50" src="icons/css3-original-wordmark.svg">
 <img height="50" src="icons/bootstrap-plain-wordmark.svg">
-<img height="50" src="icons/javascript-original.svg">
 <img height="50" src="icons/typescript-original.svg">
-<img height="50" src="icons/nodejs-original-wordmark.svg">
 <img height="50" src="icons/react-original-wordmark.svg">
-<img height="50" src="icons/angularjs-plain-wordmark.svg">
 <img height="50" src="icons/flutter-original.svg">
 <img height="50" src="icons/postgresql-original-wordmark.svg">
 <img height="50" src="icons/mysql-original-wordmark.svg">
 <img height="50" src="icons/mongodb-original-wordmark.svg">
 <img height="50" src="icons/git-original-wordmark.svg">
 <img height="50" src="icons/bash-original.svg">
+</div>
+
+<br/><br/>
+
+## Tools that I know how to use
+
+<br/>
 <img height="50" src="icons/docker-original-wordmark.svg">
 <img height="50" src="icons/trello-plain-wordmark.svg">
-</div>
 
 <br/><br/><br/>
 
