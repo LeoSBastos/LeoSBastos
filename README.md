@@ -10,9 +10,7 @@
 - ⚡ I'm always up to learn a new language
 - 💬 Ask me about: tech, memes, anime
 - 📌 I live in Brasília, Brazil 🇧🇷
-## My current job languages, stacks, tools
-
-<br/>
+## My current job's languages, stacks, tools
 
 ### Languages and stacks
 <div>
