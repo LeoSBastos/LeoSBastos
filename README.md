@@ -37,7 +37,7 @@
 </div>
 <br/><br/>
 
-## Languages and stacks that I know a bit off
+## Languages and stacks that I know and I'm still learning
 <br/>
 <div>
 <img height="50" src="icons/c-original.svg">
